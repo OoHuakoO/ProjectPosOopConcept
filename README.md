@@ -1,2 +1,2 @@
 # ProjectPosOopConcept
-ฟหกฟหกฟห
+เป็นโปรเจคโปรแกรม Pos ตอนเรียนวิชา Oop ปี2
